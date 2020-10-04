@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Rigo Hernandez Banner](bannertest2.png "Rigo Hernandez Banner")
+![Rigo Hernandez Banner](bannertestfinal.png "Rigo Hernandez Banner")
 
 <!--
 **Rigo-Hernandez/Rigo-Hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
