@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Linux & JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://rigohernandez.me](https://rigohernandez.me)
+- 👨‍💻 My portfolio is available at [https://rigohernandez.me](https://rigohernandez.me)
 
 - 📫 How to reach me **hernandez_rigoberto@outlook.com**
 
