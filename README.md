@@ -10,8 +10,6 @@
 
 - 👨‍💻 My portfolio is available at [https://rigohernandez.dev](https://rigohernandez.dev)
 
-- 📫 You can reach me at **hernandez_rigoberto@outlook.com**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/rigo_hernandez2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rigo_hernandez2" height="30" width="40" /></a>
